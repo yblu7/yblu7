@@ -34,14 +34,6 @@ Currently, I am a Backend Development Intern at Shopee.
 OfferPilot is a project I am building to explore how AI can support
 career-related decision making, offer analysis, and personalized planning.
 
-## Tech Stack
-
-```text
-Languages   Java, Python
-Backend     FastAPI, Spring Boot, MySQL, Redis, Kafka
-Interests   Agents, Domain Adaptation
-```
-
 ## Beyond Code
 
 Badminton has been a serious part of my life. I served as captain of Wuhan
@@ -49,8 +41,7 @@ University of Technology badminton team，two-time provincial university badmint
 
 ## Social Media
 
-- Douyin: 学不会数学
-- Xiaohongshu: 学不会数学
+- Douyin/Xiaohongshu: 学不会数学
 
 ---
 
