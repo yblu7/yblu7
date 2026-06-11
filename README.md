@@ -1,6 +1,6 @@
 <div align="center">
 
-# Yanbin Lu
+# yblu
 
 **M.S. Student in Artificial Intelligence | Backend Engineering Intern @ Shopee**
 
@@ -12,7 +12,7 @@ Java | Python | Agents
 
 ## About
 
-I am Yanbin Lu, currently pursuing an M.S. in Artificial Intelligence at
+I am yblu, currently pursuing an M.S. in Artificial Intelligence at
 Xidian University. Before that, I received my B.S. in Information and
 Computing Science from Wuhan University of Technology.
 
