@@ -4,13 +4,10 @@
 
 **I want to witness how agents change the world.**
 
-Java | Python | Agents
-
 <br>
 
 <img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=white" />
 
 </div>
 
