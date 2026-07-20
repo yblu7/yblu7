@@ -19,16 +19,15 @@ I am yblu7, currently pursuing an M.S. in Artificial Intelligence at
 Xidian University. Before that, I received my B.S. in Information and
 Computing Science from Wuhan University of Technology.
 
-My work sits at the intersection of agent engineering and backend engineering.
-
 Currently, I am an Agent Development Intern at Shopee.
+
+My work sits at the intersection of agent engineering and backend engineering.
 
 ## Focus
 
-- Agent systems and tool-using AI
+- Agent engineering
 - Backend engineering
 - Domain adaptation
-- Automatic modulation classification
 
 ## Featured Project
 
@@ -49,15 +48,6 @@ enjoy working out🏋️ and cooking🍳.
 ## Social Media
 
 - Douyin / Xiaohongshu: 学不会数学
-
-## GitHub
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=yblu7&show_icons=true&hide_title=true&hide_border=true&theme=transparent" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yblu7&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
 
 ---
 
