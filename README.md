@@ -29,13 +29,6 @@ My work sits at the intersection of agent engineering and backend engineering.
 - Backend engineering
 - Domain adaptation
 
-## Featured Project
-
-### OfferPilot
-
-OfferPilot is a project I am building to explore how AI can support
-career-related decision making, offer analysis, and personalized planning.
-
 ## Beyond Code
 
 Badminton🏸 has been a serious part of my life. I served as captain of the
