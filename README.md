@@ -19,19 +19,19 @@ I am yblu7, currently pursuing an M.S. in Artificial Intelligence at
 Xidian University. Before that, I received my B.S. in Information and
 Computing Science from Wuhan University of Technology.
 
-Currently, I am an Agent Development Intern at Shopee.
+Previously, I worked as an Agent Development Intern at Shopee.
 
-My work sits at the intersection of agent engineering and backend engineering.
+My work sits at the intersection of agent systems and backend engineering.
 
 ## Focus
 
-- Agent engineering
+- Agent Systems
 - Backend engineering
 - Domain adaptation
 
 ## Beyond Code
 
-Badminton🏸 has been a serious part of my life. I served as captain of the
+Badminton🏸 has been a big part of my life. I served as captain of the
 Wuhan University of Technology badminton team and became a two-time champion🏆
 at the provincial university badminton tournament.
 
